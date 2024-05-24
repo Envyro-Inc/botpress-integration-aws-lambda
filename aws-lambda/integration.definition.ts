@@ -30,7 +30,7 @@ import {
 
 export default new IntegrationDefinition({
   name: integrationName ?? name,
-  version: '24.5.0',
+  version: '24.5.1',
   title: 'AWS Lambda',
   readme: 'hub.md',
   icon: 'icon.svg',
